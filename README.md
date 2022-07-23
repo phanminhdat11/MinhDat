@@ -12,16 +12,11 @@
 
 <p align="center">
 
-  <a href="https://www.facebook.com/profile.php?id=100012534870067" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
+  
   <a href="https://github.com/phanminhdat11" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCf_NXZj1xNy9rtVEfCSAT5w" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-
+ 
  
 </p>
 
